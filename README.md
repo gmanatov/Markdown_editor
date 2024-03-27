@@ -1,5 +1,5 @@
 # Markdown editor. 
 
-## Very aesthetic! 
+Very aesthetic! 
 
 tech used: CSS, Java Script, Marked.js, React 
